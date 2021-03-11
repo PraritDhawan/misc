@@ -1,0 +1,8 @@
+<html>
+
+<body background="https://university-nic.in/wp-content/uploads/KIIT-University.jpg"; background-repeat: no-repeat; background-attachment: fixed; background-size: 200% 200%;>
+<h1 style="color:lime;font-size:50px;">Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar</h1>
+<p style="color:yellow;font-size:30px;"><b>Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar is ranked 21 in university ranking and has achieved the status of ‘Institution of Eminence’ among 20 institutes. It had its inception in 1992 by famous educational and social entrepreneur, Dr. Achyuta Samanta and in 1997 the degree courses were started. KIIT offers a variety of UG, PG and Doctoral Courses in multiple disciplines. KIIT Deemed to be University has made an impressive debut in The Times Higher Education World University Rankings 2019, regarded as one of the most prestigious university. Kalinga Institute of Industrial Technology is approved by AICTE and accredited by NAAC with ‘A’ Grade. KIIT comprises 19 constituent Schools imparting education to over 27000+ students. Ranked 3rd in East and 19th in the National level amongst B-Schools in Career Launcher.</b>  </p>
+<b style="color:lime;font-size:20pxPrarit</b>Dhawan</center>
+</body>
+</html>
